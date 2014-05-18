@@ -86,9 +86,8 @@ margin: 20px 0;
 
 #sidebar {
 float: left;
-width: 240px;
+width: 200px;
 margin: 20px 0;
-border-left: 1px dotted #aaa;
 }
 
 #footer {
@@ -129,9 +128,9 @@ list-style-type: square;
     height: 50px;
     line-height: 50px;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 20px;
     margin: 20px 0 0 0; padding: 0 0 0 20px; 
-    color: #dfdfdf;
+    color: #ffffff;
 }
 
 #sidebar ul li {
