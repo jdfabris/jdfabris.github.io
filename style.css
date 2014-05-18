@@ -21,7 +21,7 @@ ul { list-style-type: none; }
 #page {
 width: 780px;
 margin: 0 auto;
-background: #000000;
+background: #000000;  /*black background*/
 }
 
 #header { 
@@ -33,11 +33,9 @@ font-weight: 100;
 padding: 25px 0 0 20px;
 }
 #header h1 a {
-color: #7DC5DF;
+color: #7DC5DF;   /*light blue name in top left*/
 }
-#header h1 a:hover {
-color: #111;
-}
+
 #header h2 {
 color: #666;
 font-size: 17px;
