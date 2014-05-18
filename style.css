@@ -97,7 +97,8 @@ margin: 20px 0;
 
 #footer {
 background: #11b5ef url(images/footer.jpg) no-repeat;
-margin: 0 0px 0 0px;
+margin: 0 auto;
+width: 750px;
 font-weight: 100;
 font-size: 12px;
 text-align: center;
