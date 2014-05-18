@@ -50,7 +50,7 @@ background: #9ccddf url(images/menu.jpg) no-repeat;
 height: 40px;
 width: 600px;
 line-height: 40px;
-padding-right: 40px;
+padding-left: -40px;
 }
 
 #menu ul {
