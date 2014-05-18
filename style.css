@@ -55,7 +55,7 @@ line-height: 40px;
 #menu ul {
 list-style-type: none;
 margin: 0;
-padding-left: 10px;
+padding-left: 0px;
 }
 #menu ul li {
 display: block;
