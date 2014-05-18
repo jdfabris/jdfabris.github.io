@@ -33,9 +33,11 @@ font-weight: 100;
 padding: 25px 0 0 20px;
 }
 #header h1 a {
-color: #7DC5DF;   /*light blue name in top left*/
+color: #7DC5DF;   /*light blue top left logo*/
 }
-
+/*#header h1 a:hover {
+color: #111;  HOVER OVER TOP LEFT LOGO
+}*/
 #header h2 {
 color: #666;
 font-size: 17px;
@@ -71,10 +73,10 @@ color: #fff;
 background: url(images/menuover.png) repeat-x;
 }
 
-#wrapper {
+/*#wrapper {
 background: url(images/shad.jpg) no-repeat top;
-padding: 0 0 0 20px;
-}
+padding: 0 0 0 20px;   FADE TO WHITE FROM BAR THING
+}*/
 
 #content {
 float: left;
