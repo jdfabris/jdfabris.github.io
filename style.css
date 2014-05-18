@@ -50,12 +50,13 @@ background: #9ccddf url(images/menu.jpg) no-repeat;
 height: 40px;
 width: 600px;
 line-height: 40px;
+padding-right: 40px;
 }
 
 #menu ul {
 list-style-type: none;
 margin: 0;
-padding-left: 0px;
+padding-left: 10px;
 }
 #menu ul li {
 display: block;
