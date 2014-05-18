@@ -81,13 +81,14 @@ padding: 0 0 0 20px;   FADE TO WHITE FROM BAR THING
 #content {
 float: right;
 width: 600px;
-margin: 20px 0;
+margin: 20px 20px;
+border-left: 1px dotted #aaa;
 }
 
 #sidebar {
 float: left;
-width: 200px;
-margin: 0px 0;
+width: 150px;
+margin: 20px 0;
 }
 
 #footer {
