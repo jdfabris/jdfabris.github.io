@@ -5,8 +5,8 @@ font-family:  Arial, "Trebuchet MS", Sans-Serif, Georgia, Courier, "Times New Ro
 font-size: 16px; 
 background: #252525;
 color: #dfdfdf; 
-margin:0;
-margin-bottom: 20px; 
+margin-top:0;
+margin-bottom: 2em; 
 padding:0;
 line-height: 135%;
 }
