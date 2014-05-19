@@ -132,7 +132,7 @@ list-style-type: square;
 
 #sidebar h2 {
     height: 50px;
-    line-height: 50px;
+    line-height: 1em;
     font-weight: 600;
     font-size: 20px;
     margin: 20px 0 0 0; padding: 0 0 0 20px; 
